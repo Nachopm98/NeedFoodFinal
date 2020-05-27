@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/perfil" android:title="Contexto Ítem 1" />
+    <item android:id="@+id/opciones" android:title="Contexto Ítem 2" />
+    <item android:id="@+id/cerrarSesion" android:title="Contexto Submenú">
+    </item>
+</menu>

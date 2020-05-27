@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NeedFood</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="registrarsecomousuario">Registrar usuario</string>
+    <string name="regisempresa">Registrar Empresa</string>
+    <string name="Entrar">Entrar</string>
+    <string name="nombreusuario">"Nombre de Usuario: "</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="demasiadojoven">Debes ser mayor de edad para registrarte en esta aplicacion</string>
+    <string name="registradouser">usuario registrado</string>
+</resources>
